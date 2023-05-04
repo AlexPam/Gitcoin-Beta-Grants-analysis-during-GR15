@@ -62,11 +62,11 @@
  This project is an analysis of the projects during the Gitcoin Grant Beta Grant Round (GR) 15. The aim of each GR which is held quaterly is to fund promising open source 
  projects mainly in the web 3 space. The GR is hosted by Gitcoin using the quadratic funding system. The use of the quadratic funding system was to create a free and fair voting 
  ecosystem for all projects irrespective of thier fudning power. Ditto to this innovation, criminal mastermind know as SYBILS use fraudulent methods to vote for undeserving projects 
- during the funding/ grant rounds. A sybil in lame man term is an aattacker who creates multipe identities (wallet address) simultaneously within a peer-to network.
+ during the funding/ grant rounds. A sybil in lame man term is an attacker who creates multipe identities (wallet address) simultaneously within a peer-to network.
+ So the main aim of this project is to identify and flag out fraudulent projects during the GR15 beta.
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -74,7 +74,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
+* [![Python][Python]][Python-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
