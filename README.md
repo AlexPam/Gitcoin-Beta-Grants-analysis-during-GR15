@@ -4,26 +4,14 @@
 
 
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
-<h3 align="center">project_title</h3>
+
+<h3 align="center">Gitcoin-Beta-Grants-analysis-during-GR15</h3>
 
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+   
   </p>
 </div>
 
@@ -65,25 +53,15 @@
  during the funding/ grant rounds. A sybil in lame man term is an attacker who creates multipe identities (wallet address) simultaneously within a peer-to network.
  So the main aim of this project is to identify and flag out fraudulent projects during the GR15 beta.
 
+
+ For this project I modified and made use of the Website Vaalidation Lego from the Grants Review Dashboard Legos. I also built a Github Lego for checking grants Githubs.
+ 
+ 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-### Built With
-
-* [![Python][Python]][Python-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
