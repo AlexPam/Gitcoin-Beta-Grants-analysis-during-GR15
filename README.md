@@ -115,10 +115,10 @@ After I was able to draw out grants with fraudulent symptoms, I also inspected e
 
 ## Conclusion.
 
-1.  40--50% of susppecious projects were identied by  the use of innvallid webssite url  and github url. 
-2.  A twittter lego to check feeature like folllowers, tweets,  creation date  would also  be another effective tool.
+1.  40--50% of suspecious projects were identied by  the use of invallid website url  and github url. 
+2.  A twittter lego to check feature like followers, tweets,  creation date  would also  be another effective tool.
 3. This analysis continues  and the full report would be submitted on theh  13th may.
-  I  will be using the GrantDNA lego to check for possible sybil activities in each graants.
+  I  will be using the GrantDNA lego to check for possible sybil activities in each grants.
 
 
 
