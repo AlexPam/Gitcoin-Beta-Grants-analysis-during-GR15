@@ -49,11 +49,6 @@
 
  For this project I modified and made use of the Website Vaalidation Lego from the Grants Review Dashboard Legos. I also built a Github Lego for checking grants Githubs.
  
- 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
